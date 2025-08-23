@@ -20,7 +20,7 @@
 
 ### - I'm 21 years  old C++ (Competitive Programmer) & Tech Enthusiast from India.
 
-<img hight="150" width="350" alt="GIF" align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGIza2QxeDlka2YyaGFiOGZldDVlM2QxOHIydzcwMjEwNHJoanRmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12BYUePgtn7sis/giphy.gif">
+<img hight="150" width="300" alt="GIF" align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGIza2QxeDlka2YyaGFiOGZldDVlM2QxOHIydzcwMjEwNHJoanRmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12BYUePgtn7sis/giphy.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
