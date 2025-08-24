@@ -14,7 +14,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue)](https://prempiyush.vercel.app)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/prempiyush)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/prempiyush-chandravanshi/)
 
 # About ME 💬 :
 
