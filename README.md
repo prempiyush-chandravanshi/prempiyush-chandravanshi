@@ -6,7 +6,7 @@
 
 [![Linkedin: Prempiyush](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prempiyush-chandravanshi/)](https://www.linkedin.com/in/prempiyush-chandravanshi/)
 ![GitHub followers](https://img.shields.io/github/followers/prempiyush-chandravanshi?label=Follow&style=social)
-![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=websitePORTFOLIOLINK/)
+![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://prempiyush-chandravanshi.github.io/portfolio/)
 
 ### 📫 Like to meet me?
 
