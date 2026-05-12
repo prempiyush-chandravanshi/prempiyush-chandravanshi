@@ -6,7 +6,7 @@
 
 [![Linkedin: Prempiyush](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prempiyush-chandravanshi/)](https://www.linkedin.com/in/prempiyush-chandravanshi/)
 ![GitHub followers](https://img.shields.io/github/followers/prempiyush-chandravanshi?label=Follow&style=social)
-![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://prempiyush-chandravanshi.github.io/portfolio/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&)](https://prempiyush-chandravanshi.github.io/portfolio/)
 
 ### 📫 Like to meet me?
 
@@ -48,7 +48,7 @@ const Prempiyush = {
             js: ["Node", "Express", "NestJS"], // learning
             python: ["Flask"], // learning
         },
-        databases: ["PostgreSQL", "MongoDB", "SQLite"],
+        databases: ["PostgreSQL", "MongoDB", "SQLite"], // learning
         generativeAI: ["GPT"],
     },
     currentFocus: "Learning Core Subjects For Gate (Digital logic, COA, OS, DBMS, CN) & Improving DSA Skills (Problem Solving) ",
