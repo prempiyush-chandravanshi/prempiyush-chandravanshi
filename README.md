@@ -12,13 +12,13 @@
 
 👇 Hit in your browser to connect with me.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue)](https://prempiyush.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue)](https://prempiyush-chandravanshi.github.io/portfolio/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/prempiyush-chandravanshi/)
 
 # About ME 💬 :
 
-### - I'm 21 years  old C++ (Competitive Programmer) & Tech Enthusiast from India.
+### - I'm 22 years  old C++ (Competitive Programmer) & Tech Enthusiast from India.
 
 <img hight="150" width="300" alt="GIF" align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGIza2QxeDlka2YyaGFiOGZldDVlM2QxOHIydzcwMjEwNHJoanRmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12BYUePgtn7sis/giphy.gif">
 
@@ -45,14 +45,13 @@ const Prempiyush = {
             css: ["Sass", "Tailwind", "Bootstrap"],
         },
         backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Flask"],
+            js: ["Node", "Express", "NestJS"], // learning
+            python: ["Flask"], // learning
         },
         databases: ["PostgreSQL", "MongoDB", "SQLite"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets"],
         generativeAI: ["GPT"],
     },
-    currentFocus: "Learning MERN Stack (React, Node.js, MongoDB) & Improving DSA Skills (Problem Solving) ",
+    currentFocus: "Learning Core Subjects For Gate (Digital logic, COA, OS, DBMS, CN) & Improving DSA Skills (Problem Solving) ",
     funFact: "Still trying to convince my code to work without bugs 🐛!"
 };
 ```
